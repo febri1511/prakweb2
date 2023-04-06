@@ -52,9 +52,9 @@ $data_produk = $model->dataProduk();
                                 <td> <?=$row ['harga_jual']  ?></td>
                                 <td> <?=$row ['stok']  ?></td>
                                 <td> <?=$row ['min_stok']  ?></td>
-                                <td> <?=$row ['namajenisproduk']  ?></td>
-                            </tr>
-                            <?php
+                                <td> <?=$row ['jenis']  ?></td>
+                            <tr>
+                                <?php
                     $no++;
                     }
                     ?>
