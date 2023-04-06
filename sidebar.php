@@ -76,6 +76,12 @@
                               </a>
                           </li>
                           <li class="nav-item">
+                              <a href="index.php?hal=jenis_produk" class="nav-link">
+                                  <i class="far fa-circle nav-icon"></i>
+                                  <p>Jenis Produk</p>
+                              </a>
+                          </li>
+                          <li class="nav-item">
                               <a href="index.php" class="nav-link">
                                   <p>
                                       Logout

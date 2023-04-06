@@ -6,6 +6,7 @@ include_once 'models/Kartu.php';
 include_once 'models/Vendor.php';
 include_once 'models/Pembelian.php';
 include_once 'models/Pesanan.php';
+include_once 'models/Jenis_produk.php';
 
 
 
