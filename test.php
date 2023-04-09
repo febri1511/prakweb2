@@ -1,8 +1,8 @@
 <?php
 // definisikan variable
-$namas = 'febrianscah';
-$umur = 18;
-$berat = 53;
+$namas = 'Agis Haryanto';
+$umur = 19;
+$berat = 55;
 
 echo "Nama saya : $namas";
 echo '<br/>Umur saya : ' .$umur. ' Tahun';
